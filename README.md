@@ -1,7 +1,7 @@
 OpenBlog is open source template is design and built with nextjs and tailwind CSS. 
 
 ## Getting Started
-
+testiing sync gitlab
 ```bash
 # clone the repository
 git clone https://github.com/frontendweb3/open-blog.git
